@@ -1,3 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="220" />
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
 </code_scheme>
